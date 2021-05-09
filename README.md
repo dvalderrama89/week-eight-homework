@@ -1,5 +1,5 @@
 # Updated Portfolio - Week eight
-Utilized Materialize to setup a new portfolio page with screenshots and links back to the past 3 course assignments.
+Utilized Materialize to setup a new portfolio page with screenshots and links back to the past 3 course assignments. Included mobile design such as a hamburger menu and other responsive elements.
 
 # Link to Deployed App
 https://reddituser7777.github.io/week-eight-homework/
